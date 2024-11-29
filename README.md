@@ -4,7 +4,7 @@
 
 Photo      | Future
 -----------|--------------
-![](https://raw.github.com/rhiokim/resume/master/photos/rhiokim.jpg) | ![](https://raw.github.com/rhiokim/resume/master/photos/picasso.jpg) + ![](https://raw.github.com/rhiokim/resume/master/photos/beethoven.jpg)
+
 Name       | 이태훈
  - English | Taehun Lee
 Age        | 31 
@@ -17,10 +17,10 @@ Mobile     | 010-2714-5829
 
 Profile    | Content
 -----------|--------------------------------------
-Address    | 서울 강남구 역삼동 123-12 아파트 304층 3041호
-Mobile     | xxx-xxxx-xxxx
-Married    | 기혼 or 미혼
-Family     | 1남 2녀
+Address    | 대구시 수성구 달구벌대로669길 80 (우)42273
+Mobile     | 010-2714-5829
+Married    | 미혼
+Family     | 
 Blood type | RH+ A
 Religion   | 없음
   
