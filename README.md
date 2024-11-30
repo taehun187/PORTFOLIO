@@ -32,8 +32,8 @@ University  | xx University  | Computer Science | YYYY.MM | YYYY.MM | graduated 
 High School | xx High School |                  | YYYY.MM | YYYY.MM | graduated |
 
 ### 직장이력
-Period            | Company                |                  
-------------------|------------------------|-----------------------------
+Period            | Company                   |                  
+------------------|---------------------------|-----------------------------
 2018.10 - 2023.10 | 금당어패럴, 루이, 아이엠니트  | 옷 장사
 
 
