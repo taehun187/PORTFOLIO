@@ -62,7 +62,7 @@
 > - Language : Java
 > - Skill : SpringBoot, AWS
 >
-> [프로젝트 상세 설명](https://github.com/)
+> [프로젝트 상세 설명](https://github.com/AWS_Practice)
 
 <br />
 
@@ -74,11 +74,11 @@
 > - 인력구성 : 1명
 > - Skill : HTML, CSS, Javascript
 >
-> [프로젝트 상세 설명](https://github.com/)
+> [프로젝트 상세 설명](https://github.com/Calculator_Project)
 
 <br />
 
-## 4. JasonWebToken Project
+## 4. JasonWebToken Project
 
 > 제이슨 웹 토큰 활용 프로젝트
 >
