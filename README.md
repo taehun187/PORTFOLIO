@@ -15,6 +15,8 @@
 
 <br />
 
+
+
 # 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -35,9 +37,11 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+<br />
+
 # 📝Projects
 6개월간 학원을 다니며 진행했던 프로젝트들 입니다.  
-
+<br />
 
 ## 1. NoticeBoard Project
 
