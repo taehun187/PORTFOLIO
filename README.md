@@ -15,6 +15,17 @@
 
 <br />
 
+# 🔥 Introduce
+
+-  **최종학력**: 영남대학교 공과대학 도시공학과 졸업
+
+
+Site     | URL
+---------|-------------------------------
+Github   | https://github.com/taehun187
+TISTORY  | https://xogns93.tistory.com
+
+
 
 
 # 🛠 Tech Stack
@@ -102,12 +113,6 @@
 
 
 
-
-## 소셜
-Site     | URL
----------|-------------------------------
-Github   | https://github.com/taehun187
-TISTORY  | https://xogns93.tistory.com
 
 
 <br><br>
