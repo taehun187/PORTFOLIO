@@ -54,7 +54,7 @@
 >> - Language : Java, SpringBoot, AWS, JWT, 
 >> - Skill : SpringBoot, AWS, JWT, MySQL
 >> 
->> [프로젝트 상세 설명(Back-end)](https://github.com/)  
+>> [프로젝트 상세 설명][https://github.com/]  
 >
 
 
@@ -69,7 +69,7 @@
 > - Language : Java
 > - Skill : SpringBoot, AWS
 >
-> [프로젝트 상세 설명](https://github.com/AWS_Practice)
+> [프로젝트 상세 설명][https://github.com/AWS_Practice]
 
 <br />
 
@@ -81,7 +81,7 @@
 > - 인력구성 : 1명
 > - Skill : HTML, CSS, Javascript
 >
-> [프로젝트 상세 설명](https://github.com/Calculator_Project)
+> [프로젝트 상세 설명][https://github.com/Calculator_Project])
 
 <br />
 
@@ -94,7 +94,7 @@
 > - Language : Java
 > - Skill : SpringBoot, MySQL, JWT
 >
-> [프로젝트 상세 설명]([https://github.com/taehun187/JWT_Project]
+> [프로젝트 상세 설명][https://github.com/taehun187/JWT_Project]
 
 <br />
 
