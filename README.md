@@ -19,9 +19,6 @@ Profile    | Content
 -----------|--------------------------------------
 Address    | 대구시 수성구 달구벌대로669길 80 (우)42273
 Mobile     | 010-2714-5829
-Married    | 미혼
-Family     | 
-Blood type | RH+ A
 Religion   | 없음
   
 ###### 학력정보
