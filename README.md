@@ -66,7 +66,7 @@ TISTORY  | https://xogns93.tistory.com
 >> - Language : Java, SpringBoot, AWS, JWT, 
 >> - Skill : SpringBoot, AWS, JWT, MySQL
 >> 
->> [프로젝트 상세 설명][https://github.com/taehun187/]  
+>> [프로젝트 상세 설명][https://github.com/taehun187/NoticeBoard_backend]  
 >
 
 
