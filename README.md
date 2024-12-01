@@ -110,6 +110,11 @@ TISTORY  | https://xogns93.tistory.com
 
 <br />
 
+# 교육 및 대외활동
+2024.06 ~ 2024.12	클라우드 기반 AI 서비스 /  한국IT교육원
+
+![image](https://github.com/user-attachments/assets/ea0c40d3-8775-45a8-b2b6-a0ea4e12535b)
+
 
 
 
