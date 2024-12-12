@@ -112,6 +112,7 @@ TISTORY  | https://xogns93.tistory.com
 
 <br />
 
+
 # 교육 활동
 2024.06 ~ 2024.12	클라우드 기반 AI 서비스 /  한국IT교육원 
 
