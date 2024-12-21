@@ -66,7 +66,7 @@ TISTORY  | https://xogns93.tistory.com
 > - 인력구성 : 1명
 >
 >> Back-end
->> - Language : Java, SpringBoot, AWS, JWT, 
+>> - Language : Java
 >> - Skill : SpringBoot, AWS, JWT, MySQL
 >> 
 >> [프로젝트 상세 설명][https://github.com/taehun187/NoticeBoard_backend]  
