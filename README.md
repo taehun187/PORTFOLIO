@@ -124,7 +124,7 @@ TISTORY  | https://xogns93.tistory.com
 > - 개발기간 : 2024.12.01 ~ 2024.12.20
 > - 인력구성 : 1명
 > - Language : Java
-> - Skill : SpringBoot,
+> - Skill : SpringBoot, JPA, MySQL, Docker, Jenkins
 >
 > [프로젝트 상세 설명][https://github.com/taehun187/Gopang]
 
