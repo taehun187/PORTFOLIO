@@ -70,6 +70,7 @@ TISTORY  | https://xogns93.tistory.com
 >> - Skill : SpringBoot, AWS, JWT, MySQL
 >> 
 >> [프로젝트 상세 설명][https://github.com/taehun187/NoticeBoard_backend]
+>> <br />
 >> [프로젝트 상세 설명][https://github.com/taehun187/NoticeBoard_frontend]  
 
 
@@ -131,7 +132,7 @@ TISTORY  | https://xogns93.tistory.com
 
 
 # 교육 활동
-2024.06 ~ 2024.12	클라우드 기반 AI 서비스 /  한국IT교육원    
+2024.06.24 ~ 2024.12.26	클라우드 기반 AI 서비스 /  한국IT교육원    
 
 ![image](https://github.com/user-attachments/assets/ea0c40d3-8775-45a8-b2b6-a0ea4e12535b)
 
